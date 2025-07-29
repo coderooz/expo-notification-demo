@@ -1,0 +1,24 @@
+{
+  "name": "expo-notification-demo",
+  "version": "1.0.0",
+  "description": "A demonstration of expo notification setups.",
+  "keywords": [
+    "expo",
+    "vercel",
+    "notification",
+    "push-notification"
+  ],
+  "homepage": "https://github.com/coderooz/expo-notification-demo#readme",
+  "bugs": {
+    "url": "https://github.com/coderooz/expo-notification-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderooz/expo-notification-demo.git"
+  },
+  "license": "MIT",
+  "author": "Ranit Saha (Coderooz)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
